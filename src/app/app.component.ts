@@ -6,5 +6,33 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'proyAng';
+  titulo: String = 'Angular Crud';
+
+  empleados = [
+    { 'nombre': 'Soria', ocupacion: 'Robar kills' },
+    { 'nombre': 'Colazo', ocupacion: 'Hacker' },
+    { 'nombre': 'Alvarez', ocupacion: 'Ver furros' }
+  ];
+
+  model: any = {};
+
+  /*  agregar */
+  addEmpleado(): void {
+
+
+  }
+  /*   borrar */
+  deleteEmpleado(): void {
+
+  }
+  /*   editar */
+  editEmpleado(): void {
+
+  }
+  /*   actualizar */
+  updateEmpleado(): void {
+
+  }
+
+
 }
