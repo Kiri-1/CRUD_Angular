@@ -11,7 +11,7 @@ export class AppComponent {
 
   empleados = [
     { 'nombre': 'Soria', ocupacion: 'Robar kills', email: 'elsuciodan@gmail.com' },
-    { 'nombre': 'Colazo', ocupacion: 'Hacker', email: 'elbarto@gmail.com' },
+    { 'nombre': 'Col', ocupacion: 'Hacker', email: 'elbarto@gmail.com' },
     { 'nombre': 'Alvarez', ocupacion: 'Ver furros', email: 'elfurros@gmail.com' }
   ];
 
