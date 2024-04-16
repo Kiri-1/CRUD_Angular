@@ -10,9 +10,9 @@ export class AppComponent {
   msg: string = '';
 
   empleados = [
-    { 'nombre': 'Soria', ocupacion: 'Robar kills', email: 'elsuciodan@gmail.com' },
-    { 'nombre': 'Col', ocupacion: 'Hacker', email: 'elbarto@gmail.com' },
-    { 'nombre': 'Alvarez', ocupacion: 'Ver furros', email: 'elfurros@gmail.com' }
+    { 'nombre': 'Belen Jesus', ocupacion: 'Developer', email: 'belenjesuslp@gmail.com' },
+    { 'nombre': 'Belen Jesus', ocupacion: 'Developer', email: 'belenjesuslp@gmail.com' },
+    { 'nombre': 'Belen Jesus', ocupacion: 'Developer', email: 'belenjesuslp@gmail.com' }
   ];
 
   model: any = {};
